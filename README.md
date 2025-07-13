@@ -2,4 +2,5 @@ THIS WEBSITE IS DESIGNED USING CONCEPT OF WEB DEVELOPMENT. AND I TRIES MY BEST T
 HERE ARE SOME VIEWS.
 ![image alt](https://github.com/itsmelokesh10/website-clone-/blob/main/1.jpg?raw=true)
 ![image alt](https://github.com/itsmelokesh10/website-clone-/blob/main/2.jpg?raw=true)
+![image alt]([https://github.com/itsmelokesh10/website-clone-/blob/main/1.jpg?raw=true](https://github.com/itsmelokesh10/website-clone-/blob/main/3.jpg?raw=true))
 ![image alt](https://github.com/itsmelokesh10/website-clone-/blob/main/1.jpg?raw=true)
